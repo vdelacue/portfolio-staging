@@ -131,7 +131,7 @@ function IndexNavbar() {
                   onClick={(e) => e.preventDefault()}
                 >
                   <i className="now-ui-icons arrows-1_share-66 mr-1"></i>
-                  <p>Upgrade to PRO</p>
+                  <p>Vanessa's so GOOD!</p>
                 </Button>
                 <UncontrolledTooltip target="#vanessa-cool">
                   Cooming soon!
