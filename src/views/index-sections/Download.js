@@ -75,7 +75,7 @@ function Download() {
                 disabled
               >
                 <i className="now-ui-icons arrows-1_share-66 mr-1"></i>
-                Upgrade to PRO
+                Vanessa's so GOOD
               </Button>
             </Col>
           </Row>

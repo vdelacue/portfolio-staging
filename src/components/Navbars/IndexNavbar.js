@@ -127,13 +127,13 @@ function IndexNavbar() {
                   className="nav-link btn-neutral"
                   color="info"
                   href="#"
-                  id="upgrade-to-pro"
+                  id="vanessa-cool"
                   onClick={(e) => e.preventDefault()}
                 >
                   <i className="now-ui-icons arrows-1_share-66 mr-1"></i>
                   <p>Upgrade to PRO</p>
                 </Button>
-                <UncontrolledTooltip target="#upgrade-to-pro">
+                <UncontrolledTooltip target="#vanessa-cool">
                   Cooming soon!
                 </UncontrolledTooltip>
               </NavItem>
