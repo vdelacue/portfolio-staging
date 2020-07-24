@@ -2,6 +2,10 @@
   "name": "portfolio-staging",
   "version": "1.4.0",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vdelacue/portfolio-staging.git"
+  },
   "dependencies": {
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.8",
