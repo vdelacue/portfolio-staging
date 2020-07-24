@@ -21,7 +21,7 @@ function NucleoIcons() {
       <div id="cd-nav">
         <a
           className={"cd-nav-trigger" + (open ? " menu-is-open" : "")}
-          href="#pablo"
+          href="#"
           id="cd-nav-trigger"
           onClick={(e) => {
             e.preventDefault();
@@ -34,7 +34,7 @@ function NucleoIcons() {
           <ul id="cd-main-nav" className={open ? "is-visible" : ""}>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -46,7 +46,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -58,7 +58,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -70,7 +70,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -82,7 +82,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -94,7 +94,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -106,7 +106,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -118,7 +118,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -130,7 +130,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -142,7 +142,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -154,7 +154,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -166,7 +166,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -178,7 +178,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -190,7 +190,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -202,7 +202,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -214,7 +214,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -226,7 +226,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -238,7 +238,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -250,7 +250,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -262,7 +262,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);
@@ -274,7 +274,7 @@ function NucleoIcons() {
             </li>
             <li>
               <a
-                href="#pablo"
+                href="#"
                 onClick={(e) => {
                   e.preventDefault();
                   setOpen(!open);

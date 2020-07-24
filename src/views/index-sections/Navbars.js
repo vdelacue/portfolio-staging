@@ -31,7 +31,7 @@ function Navbars() {
               <Navbar className="bg-primary" expand="lg">
                 <Container>
                   <NavbarBrand
-                    href="#pablo"
+                    href="#"
                     onClick={(e) => e.preventDefault()}
                   >
                     Menu
@@ -52,7 +52,7 @@ function Navbars() {
                     <Nav navbar>
                       <NavItem className="active">
                         <NavLink
-                          href="#pablo"
+                          href="#"
                           onClick={(e) => e.preventDefault()}
                         >
                           <p>Link</p>
@@ -60,7 +60,7 @@ function Navbars() {
                       </NavItem>
                       <NavItem>
                         <NavLink
-                          href="#pablo"
+                          href="#"
                           onClick={(e) => e.preventDefault()}
                         >
                           <p>Link</p>
@@ -78,19 +78,19 @@ function Navbars() {
                         </DropdownToggle>
                         <DropdownMenu>
                           <DropdownItem
-                            href="#pablo"
+                            href="#"
                             onClick={(e) => e.preventDefault()}
                           >
                             Action
                           </DropdownItem>
                           <DropdownItem
-                            href="#pablo"
+                            href="#"
                             onClick={(e) => e.preventDefault()}
                           >
                             Another action
                           </DropdownItem>
                           <DropdownItem
-                            href="#pablo"
+                            href="#"
                             onClick={(e) => e.preventDefault()}
                           >
                             Something else here
@@ -107,7 +107,7 @@ function Navbars() {
               <Navbar className="bg-info" expand="lg">
                 <Container>
                   <NavbarBrand
-                    href="#pablo"
+                    href="#"
                     onClick={(e) => e.preventDefault()}
                   >
                     Icons
@@ -129,7 +129,7 @@ function Navbars() {
                     <Nav className="ml-auto" navbar>
                       <NavItem>
                         <NavLink
-                          href="#pablo"
+                          href="#"
                           onClick={(e) => e.preventDefault()}
                         >
                           <i
@@ -140,7 +140,7 @@ function Navbars() {
                       </NavItem>
                       <NavItem>
                         <NavLink
-                          href="#pablo"
+                          href="#"
                           onClick={(e) => e.preventDefault()}
                         >
                           <i
@@ -153,7 +153,7 @@ function Navbars() {
                         <DropdownToggle
                           caret
                           color="default"
-                          href="#pablo"
+                          href="#"
                           nav
                           onClick={(e) => e.preventDefault()}
                         >
@@ -167,33 +167,33 @@ function Navbars() {
                             Dropdown header
                           </DropdownItem>
                           <DropdownItem
-                            href="#pablo"
+                            href="#"
                             onClick={(e) => e.preventDefault()}
                           >
                             Action
                           </DropdownItem>
                           <DropdownItem
-                            href="#pablo"
+                            href="#"
                             onClick={(e) => e.preventDefault()}
                           >
                             Another action
                           </DropdownItem>
                           <DropdownItem
-                            href="#pablo"
+                            href="#"
                             onClick={(e) => e.preventDefault()}
                           >
                             Something else here
                           </DropdownItem>
                           <div className="divider"></div>
                           <DropdownItem
-                            href="#pablo"
+                            href="#"
                             onClick={(e) => e.preventDefault()}
                           >
                             Separated link
                           </DropdownItem>
                           <div className="divider"></div>
                           <DropdownItem
-                            href="#pablo"
+                            href="#"
                             onClick={(e) => e.preventDefault()}
                           >
                             One more separated link
@@ -219,7 +219,7 @@ function Navbars() {
               <Container>
                 <div className="navbar-translate">
                   <NavbarBrand
-                    href="#pablo"
+                    href="#"
                     onClick={(e) => e.preventDefault()}
                   >
                     Primary color
@@ -242,7 +242,7 @@ function Navbars() {
                   <Nav className="ml-auto" navbar>
                     <NavItem className="active">
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="now-ui-icons objects_globe"></i>
@@ -251,7 +251,7 @@ function Navbars() {
                     </NavItem>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="now-ui-icons users_circle-08"></i>
@@ -260,7 +260,7 @@ function Navbars() {
                     </NavItem>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="now-ui-icons ui-1_settings-gear-63"></i>
@@ -275,7 +275,7 @@ function Navbars() {
               <Container>
                 <div className="navbar-translate">
                   <NavbarBrand
-                    href="#pablo"
+                    href="#"
                     onClick={(e) => e.preventDefault()}
                   >
                     Info Color
@@ -298,7 +298,7 @@ function Navbars() {
                   <Nav className="ml-auto" navbar>
                     <NavItem className="active">
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <p>Discover</p>
@@ -306,7 +306,7 @@ function Navbars() {
                     </NavItem>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <p>Profile</p>
@@ -314,7 +314,7 @@ function Navbars() {
                     </NavItem>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <p>Settings</p>
@@ -328,7 +328,7 @@ function Navbars() {
               <Container>
                 <div className="navbar-translate">
                   <NavbarBrand
-                    href="#pablo"
+                    href="#"
                     onClick={(e) => e.preventDefault()}
                   >
                     Success Color
@@ -351,7 +351,7 @@ function Navbars() {
                   <Nav className="ml-auto" navbar>
                     <NavItem className="active">
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="now-ui-icons objects_globe"></i>
@@ -359,7 +359,7 @@ function Navbars() {
                     </NavItem>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="now-ui-icons users_circle-08"></i>
@@ -367,7 +367,7 @@ function Navbars() {
                     </NavItem>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="now-ui-icons ui-1_settings-gear-63"></i>
@@ -381,7 +381,7 @@ function Navbars() {
               <Container>
                 <div className="navbar-translate">
                   <NavbarBrand
-                    href="#pablo"
+                    href="#"
                     onClick={(e) => e.preventDefault()}
                   >
                     Warning Color
@@ -404,7 +404,7 @@ function Navbars() {
                   <Nav className="ml-auto" navbar>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="fab fa-facebook-square"></i>
@@ -412,7 +412,7 @@ function Navbars() {
                     </NavItem>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="fab fa-twitter"></i>
@@ -420,7 +420,7 @@ function Navbars() {
                     </NavItem>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="fab fa-google-plus"></i>
@@ -428,7 +428,7 @@ function Navbars() {
                     </NavItem>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="fab fa-instagram"></i>
@@ -442,7 +442,7 @@ function Navbars() {
               <Container>
                 <div className="navbar-translate">
                   <NavbarBrand
-                    href="#pablo"
+                    href="#"
                     onClick={(e) => e.preventDefault()}
                   >
                     Danger Color
@@ -465,7 +465,7 @@ function Navbars() {
                   <Nav className="ml-auto" navbar>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="fab fa-facebook-square"></i>
@@ -474,7 +474,7 @@ function Navbars() {
                     </NavItem>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="fab fa-twitter"></i>
@@ -483,7 +483,7 @@ function Navbars() {
                     </NavItem>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="fab fa-pinterest"></i>
@@ -498,7 +498,7 @@ function Navbars() {
               <Container>
                 <div className="navbar-translate">
                   <NavbarBrand
-                    href="#pablo"
+                    href="#"
                     onClick={(e) => e.preventDefault()}
                   >
                     Transparent
@@ -521,7 +521,7 @@ function Navbars() {
                   <Nav className="ml-auto" navbar>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="fab fa-facebook-square"></i>
@@ -530,7 +530,7 @@ function Navbars() {
                     </NavItem>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="fab fa-twitter"></i>
@@ -539,7 +539,7 @@ function Navbars() {
                     </NavItem>
                     <NavItem>
                       <NavLink
-                        href="#pablo"
+                        href="#"
                         onClick={(e) => e.preventDefault()}
                       >
                         <i className="fab fa-instagram"></i>

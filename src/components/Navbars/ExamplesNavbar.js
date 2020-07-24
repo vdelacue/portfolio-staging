@@ -55,7 +55,7 @@ function ExamplesNavbar() {
             <DropdownToggle
               caret
               data-toggle="dropdown"
-              href="#pablo"
+              href="#"
               id="navbarDropdown"
               tag="a"
               onClick={(e) => e.preventDefault()}
@@ -68,21 +68,21 @@ function ExamplesNavbar() {
               <DropdownItem header tag="a">
                 Dropdown header
               </DropdownItem>
-              <DropdownItem href="#pablo" onClick={(e) => e.preventDefault()}>
+              <DropdownItem href="#" onClick={(e) => e.preventDefault()}>
                 Action
               </DropdownItem>
-              <DropdownItem href="#pablo" onClick={(e) => e.preventDefault()}>
+              <DropdownItem href="#" onClick={(e) => e.preventDefault()}>
                 Another action
               </DropdownItem>
-              <DropdownItem href="#pablo" onClick={(e) => e.preventDefault()}>
+              <DropdownItem href="#" onClick={(e) => e.preventDefault()}>
                 Something else here
               </DropdownItem>
               <DropdownItem divider></DropdownItem>
-              <DropdownItem href="#pablo" onClick={(e) => e.preventDefault()}>
+              <DropdownItem href="#" onClick={(e) => e.preventDefault()}>
                 Separated link
               </DropdownItem>
               <DropdownItem divider></DropdownItem>
-              <DropdownItem href="#pablo" onClick={(e) => e.preventDefault()}>
+              <DropdownItem href="#" onClick={(e) => e.preventDefault()}>
                 One more separated link
               </DropdownItem>
             </DropdownMenu>
