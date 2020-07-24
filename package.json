@@ -1,7 +1,11 @@
 {
   "name": "portfolio-staging",
-  "version": "1.4.0",
   "private": false,
+  "description": "a really cool portfolio",
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.3.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/vdelacue/portfolio-staging.git"
