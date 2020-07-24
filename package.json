@@ -1,7 +1,7 @@
 {
-  "name": "now-ui-kit-react",
+  "name": "portfolio-staging",
   "version": "1.4.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.8",
