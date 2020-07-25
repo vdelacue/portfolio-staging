@@ -41,7 +41,7 @@ function IndexHeader() {
             {/*  src={require("assets/img/now-logo.png")}*/}
             {/*></img>*/}
             <h1 className="h1-seo">Vanessa de La Cuetara</h1>
-            <h3>Full-Stack Engineer</h3>
+            <h3 className="title-seo">Full-Stack Engineer</h3>
           </div>
           <h6 className="category category-absolute">
             Design.
